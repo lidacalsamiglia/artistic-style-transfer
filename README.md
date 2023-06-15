@@ -2,8 +2,8 @@
 *Authors: Lida Calsamiglia 231319, Patricia Castelijns 229651, Pau Cobacho 216834*
 
 <div align="center">
-    <img src=![download-3](https://github.com/lidacalsamiglia/artistic-style-transfer/assets/65334896/8dbe1743-ec39-45aa-93cc-1a415d258ba5)
-  width="400" height="300">
+    <img src="data/sea.jpg" width="300" height="200">
+    <img src="data/sea_vangogh.png"  width="300" height="200">
 </div>
 
 This is our final project of Deep Learning. Artistic Style Transfer (Neural Style Transfer) is a technique that takes an image and outputs that image with a determined artistic style. We follow the Neural-Style algorithm developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge (https://arxiv.org/pdf/1508.06576.pdf).  
